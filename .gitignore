@@ -1,0 +1,37 @@
+# Abaikan file konfigurasi dan data pengguna
+.bash_history
+.gitconfig
+.lesshst
+.ssh/
+.viminfo
+.vscode/
+Application Data/
+IntelGraphicsProfiles/
+NTUSER.*
+OneDrive - Office 365/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+VirtualBox VMs/
+ntuser.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              
