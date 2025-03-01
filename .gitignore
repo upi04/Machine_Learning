@@ -1,3 +1,30 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore user directories
+3D Objects/
+Contacts/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+My Documents/
+Videos/
+
+# Ignore tools and temp files
+.RapidMiner/
+.VirtualBox/
+.arduinoIDE/
+ZAP/
+mata_pelajaran
+mengajar()
+nama
+sqlmap
+Project Background.pdf
+
 # Abaikan file konfigurasi dan data pengguna
 .bash_history
 .gitconfig
@@ -16,6 +43,8 @@ SendTo/
 Start Menu/
 VirtualBox VMs/
 ntuser.*
+
+
 
 
 
