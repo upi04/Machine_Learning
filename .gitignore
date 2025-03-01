@@ -1,0 +1,70 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore user directories
+3D Objects/
+Contacts/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+My Documents/
+Videos/
+AppData/
+Local Settings/
+
+
+
+# Ignore tools and temp files
+.RapidMiner/
+.VirtualBox/
+.arduinoIDE/
+ZAP/
+mata_pelajaran
+mengajar()
+nama
+sqlmap
+Project Background.pdf
+
+# Abaikan file konfigurasi dan data pengguna
+.bash_history
+.gitconfig
+.lesshst
+.ssh/
+.viminfo
+.vscode/
+Application Data/
+IntelGraphicsProfiles/
+NTUSER.*
+OneDrive - Office 365/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+VirtualBox VMs/
+ntuser.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              
